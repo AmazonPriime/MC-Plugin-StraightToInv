@@ -1,0 +1,5 @@
+name: StraightToInventory
+author: AmazonPriime
+main: me.amazonpriime.straighttoinv.StraightToInv
+version: 1.0
+description: Plugin makes it so blocks automatically go to a player's inventory instead of being dropped to the floor.

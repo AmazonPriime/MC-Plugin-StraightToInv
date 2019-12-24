@@ -1,0 +1,5 @@
+# enable the plugin (true/false)
+enabled: true
+
+# message when block is broke {block} for block and {quantity} for quantity
+message: "{block} x{quantity}"
